@@ -12,3 +12,5 @@ artifacts:
     - mtuli-resume.pdf
     - styles/main.css
     - images/*
+    - scripts/*
+    - appspec.yml
